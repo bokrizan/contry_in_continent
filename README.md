@@ -6,9 +6,12 @@ In this feature I use jquery and JS, and also I show how to pass data between jQ
 
 ## [Demo](http://plnkr.co/edit/ipG0kb?p=preview)
 
+## [Demo video](https://youtu.be/20h-RDZHiLY)
+
 # Usage:
 
 -Get project copy, and get google maps API key
+--set API key in index.html and in mapsJquery.js
 -When adding a new partner you need to make function and select the correct continent.
 **example**
 
