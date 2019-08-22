@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300");
+body {
+  padding-top: 54px;
+  font-family: "Open Sans", sans-serif;
+}
+
+hr {
+  border: 0;
+  clear: both;
+  display: block;
+  width: 100%;
+  background-color: #b3b3b3;
+  height: 1px;
+}
+
+.datum {
+  font-size: 14px;
+  color: #858585;
+}
+.nasloviKontinenata {
+  margin: 25px;
+}
+.kontaktiBox {
+  border-right: 1px solid #abaaaa;
+  padding: 10px;
+  width: 100%;
+  height: 300px;
+}
+.backToMap {
+  margin-top: 50px;
+}
+#map-canvas {
+  height: 600px !important;
+}
