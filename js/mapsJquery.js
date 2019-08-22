@@ -630,7 +630,7 @@ function initialize(x_coo, y_coo, zoom_coo, x_a_coo, y_a_coo, x_b_coo, y_b_coo, 
   var encodedQuery = encodeURIComponent(query);
   url.push(encodedQuery);
   url.push("&callback=drawMap");
-  url.push("&key=AIzaSyAvCNANFGvKTMDBKaKM3GCfDhC9t5aYC5M");
+  url.push("&key=add apiKeyHere");
   script.src = url.join("");
   var body = document.getElementsByTagName("body")[0];
   body.appendChild(script);
